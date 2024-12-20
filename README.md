@@ -1,0 +1,3 @@
+Hello. Who are you to be reading this? I don't expect there to be anything here you could be interested in.
+
+This repository simply exists because the laptop I am using to write code can't connect to the robot directly. I am using GitHub to move the code from the programming laptop to one I can connect to the robot with. I don't want to use that laptop to code because I don't feel like setting everything up the way I like it. Besides, it is a public machine and I just don't want to mess with users or anything of that nature.
